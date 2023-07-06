@@ -1,0 +1,87 @@
+body {
+    background-color: #fdeff2;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #f9f5e8;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-family: 'Script', cursive;
+    font-size: 24px;
+    color: green;
+  }
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar input[type="text"] {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  .profile-link {
+    color: green;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  .content {
+    text-align: left;
+    margin-top: 50px;
+  }
+  .conten {
+    text-align: center;
+    margin-top: 50px;
+  }
+  h1 {
+    color: green;
+  }
+  h2 {
+    color: black;
+  }
+  p {
+    color: green;
+    font-size: 14px;
+  }
+  
+  .recipe-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .recipe {
+    margin: 0 10px;
+    text-align: center;
+  }
+  
+  .recipe img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .recipe-heading {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .recipe-description {
+    font-size: 14px;
+  }
+  
+  .footer {
+    background-color: #f9f5e8;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: green;
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "recipes": [
+      {
+        "name": "Vegan lasagna",
+        "image": "lasagna.jpg",
+        "description": "A delicious and hearty vegan lasagna made with tofu ricotta, spinach, and mushrooms."
+      },
+      {
+        "name": "Gluten-free banana bread",
+        "image": "banana-bread.jpg",
+        "description": "A moist and delicious gluten-free banana bread that's perfect for breakfast or a snack."
+      },
+      {
+        "name": "Mexican chicken soup",
+        "image": "chicken-soup.jpg",
+        "description": "A flavorful and comforting Mexican chicken soup that's perfect for a cold day."
+      },
+      {
+        "name": "Italian pasta salad",
+        "image": "pasta-salad.jpg",
+        "description": "A light and refreshing Italian pasta salad that's perfect for a summer picnic."
+      }
+    ]
+  }
