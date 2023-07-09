@@ -1,0 +1,1 @@
+To host the page run: python3 -m http.server

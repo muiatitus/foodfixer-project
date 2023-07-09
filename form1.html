@@ -1,26 +1,60 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Meal Planner - Desired Outcomes</title>
-<link rel="stylesheet" href="meal-planner.css">
-</head>
-<body>
-<form>
-<h1>Meal Planner</h1>
-<h2>Cuisine Preferences</h2>
-<label for="mexican">
-    <input type="checkbox" name="cuisine_preferences[]" value="mexican" id="mexican">
-    Mexican
-  </label>
-  <label for="italian">
-    <input type="checkbox" name="cuisine_preferences[]" value="italian" id="italian">
-    Italian
-  </label>
-  <label for="asian">
-    <input type="checkbox" name="cuisine_preferences[]" value="asian" id="asian">
-    Asian
-  </label>
-<input type="button" value="Next" onclick="window.location.href='form2.html'">
-</form>
-</body>
+  <head>
+    <title>Meal Planner - Desired Outcomes</title>
+    <link rel="stylesheet" href="meal-planner.css">
+  </head>
+  <body>
+    <form>
+      <h1>Meal Planner</h1>
+      <h2 class="form1">Cuisine Preferences</h2>
+      <label class="form1" for="mexican">Mexican</label>
+      <input class="form1" type="checkbox" name="cuisine_preferences[]" value="mexican" id="mexican">
+          
+      <label class="form1" for="italian">Italian</label>
+      <input class="form1" type="checkbox" name="cuisine_preferences[]" value="italian" id="italian">
+        
+      <label class="form1" for="asian">Asian</label>
+      <input class="form1" type="checkbox" name="cuisine_preferences[]" value="asian" id="asian">
+        
+      <input class="form1" type="button" id="cuisineBtn" value="Next" ><!--onclick="window.location.href='form2.html'"-->
+        
+      <h2 class="form2">Dietary Restrictions</h2>
+      <label class="form2" for="vegan">Vegan</label>
+      <input class="form2" type="checkbox" name="dietary_restrictions[]" value="vegan" id="vegan">
+        
+      <label class="form2" for="gluten_free">Gluten Free</label>
+      <input class="form2" type="checkbox" name="dietary_restrictions[]" value="glutenFree" id="gluten_free">
+        
+      <label class="form2" for="lactose_free">Lactose Free</label>
+      <input class="form2" type="checkbox" name="dietary_restrictions[]" value="lactoseFree" id="lactose_free">
+        
+      <input class="form2" type="button" id="dietaryBtn" value="Next"><!--onclick="window.location.href='form3.html'"-->
+          
+      <h2 class="form3">Desired Outcome</h2>
+      <label class="form3" for="lose_weight">Lose Weight</label>
+      <input class="form3" type="checkbox" name="desired_outcomes[]" value="loseWeight" id="lose_weight">
+        
+      <label class="form3" for="gain_muscle">Gain Muscle</label>
+      <input class="form3" type="checkbox" name="desired_outcomes[]" value="gainMuscle" id="gain_muscle">
+        
+      <label class="form3" for="eat_healthier">Eat Healthier</label>
+      <input class="form3" type="checkbox" name="desired_outcomes[]" value="healthy" id="eat_healthier">
+        
+      <label class="form3" for="more_energy">More Energy</label>
+      <input class="form3" type="checkbox" name="desired_outcomes[]" value="moreEnergy" id="more_energy">
+        
+      <!-- <label for="money_saving">Money Saving</label>
+      <input type="checkbox" name="desired_outcomes[]" value="moneySaving" id="more_energy"> -->
+          
+      <!-- <label for="mmore_energore_energy">More Energy</label>
+      <input type="checkbox" name="desired_outcomes[]" value="more_energy" id="more_energy"> -->
+          
+      <label class="form3" for="time_saving">Time Saving</label>
+      <input class="form3" type="checkbox" name="desired_outcomes[]" value="timeSaving" id="time_saving">
+        
+      <input class="form3" type="button" id="desiredBtn" onclick="generateMealPlan()" value="Generate Meal Plan">
+    </form>    
+    <script src="script.js"></script>
+  </body>
 </html>
