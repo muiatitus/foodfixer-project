@@ -2,7 +2,7 @@
 
 The Meal Planner Website is a web application that helps users generate a personalized meal plan based on their cuisine preferences, dietary restrictions, and desired outcomes. It provides a convenient way to plan weekly meals while taking into account individual preferences and goals.
 
-![Meal Planner Website](images/meal-planner-screenshot.png)
+![Meal Planner Website](./resources/zoomed%20out%20view%20of%20the%20homepage.png "zoomed out view of the homepage")
 
 ## Features
 
@@ -29,7 +29,7 @@ The Meal Planner Website is a web application that helps users generate a person
     python3 -m http.server
 4. Open a web browser and visit http://0.0.0.0:8000/ to access the Meal Planner Website.
 
-5. Fill out the preferences forms on the website:
+5. Click on the image of the Add New and fill out the preferences forms on the website:
     * Select your preferred cuisines.
     * Choose any dietary restrictions you have.
     * Specify your desired outcomes.
@@ -50,7 +50,7 @@ The repository contains the following files and directories:
 - `meal-planner.css`: CSS file for styling the meal planner forms.
 - `README.md`: This README file providing information about the project.
 - `script.js`: JavaScript file for handling form submissions and generating meal plans.
-- `form1.html`: HTML file for the first preference form.
+- `form1.html`: HTML file containing all three forms for selecting preferences.
 - `generate.html`: HTML file for displaying the generated meal plan.
 - `meal.json`: JSON file containing the meal data.
 - `meal-planner.js`: JavaScript file for handling form submissions and generating meal plans.
@@ -60,13 +60,13 @@ The repository contains the following files and directories:
 
 ## Screenshots
 ### Home Page
-Home Page
+![Screenshot of home page](./resources/normalhomepage.png "Homepage view")
 
 ### Preferences Form
-Preferences Form
+![Screenshot of preference form](./resources/preferenceform.png "form for choosing preferences")
 
 ### Generated Meal Plan
-Generated Meal Plan
+![Screenshot of generated mealplan](./resources/generated%20mealplan.png "Your generated mealplan will appear here")
 
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements for the Meal Planner Website, please feel free to contribute. Just fork the repository, make your changes, and submit a pull request.
