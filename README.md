@@ -72,4 +72,4 @@ The repository contains the following files and directories:
 Contributions are welcome! If you have any ideas or improvements for the Meal Planner Website, please feel free to contribute. Just fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/muiatitus/foodfixer-project/blob/main/LICENSE).
