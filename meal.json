@@ -2,213 +2,213 @@
     "breakfast": {
       "mexican": {
         "glutenFree": {
-          "loseWeight": "Mexican Gluten-Free Breakfast 1",
-          "gainMuscle": "Mexican Gluten-Free Breakfast 2",
-          "healthy": "Mexican Gluten-Free Breakfast 3",
-          "moreEnergy": "Mexican Gluten-Free Breakfast 4",
-          "timeSaving": "Mexican Gluten-Free Breakfast 5"
+          "loseWeight": "Mexican Gluten-Free Lose-weight Breakfast",
+          "gainMuscle": "Mexican Gluten-Free Gain-muscle Breakfast",
+          "healthy": "Mexican Gluten-Free Healthy Breakfast",
+          "moreEnergy": "Mexican Gluten-Free Breakfast for More-energy",
+          "timeSaving": "Mexican Gluten-Free Time-saving Breakfast"
         },
         "lactoseFree": {
-          "loseWeight": "Mexican Lactose-Free Breakfast 1",
-          "gainMuscle": "Mexican Lactose-Free Breakfast 2",
-          "healthy": "Mexican Lactose-Free Breakfast 3",
-          "moreEnergy": "Mexican Lactose-Free Breakfast 4",
-          "timeSaving": "Mexican Lactose-Free Breakfast 5"
+          "loseWeight": "Mexican Lactose-Free loose-weight Breakfast",
+          "gainMuscle": "Mexican Lactose-Free gain-muscle Breakfast",
+          "healthy": "Mexican Lactose-Free healthy Breakfast",
+          "moreEnergy": "Mexican Lactose-Free more-healthy Breakfast",
+          "timeSaving": "Mexican Lactose-Free Timesaving Breakfast"
         },
         "vegan": {
-          "loseWeight": "Mexican Vegan Breakfast 1",
-          "gainMuscle": "Mexican Vegan Breakfast 2",
-          "healthy": "Mexican Vegan Breakfast 3",
-          "moreEnergy": "Mexican Vegan Breakfast 4",
-          "timeSaving": "Mexican Vegan Breakfast 5"
+          "loseWeight": "Mexican Vegan Lose-weight Breakfast",
+          "gainMuscle": "Mexican Vegan Gain-muscle Breakfast",
+          "healthy": "Mexican Vegan Healthy Breakfast",
+          "moreEnergy": "Mexican Vegan Breakfast for More-energy",
+          "timeSaving": "Mexican Vegan Time-saving Breakfast"
         }
       },
       "italian": {
         "glutenFree": {
-          "loseWeight": "Italian Gluten-Free Breakfast 1",
-          "gainMuscle": "Italian Gluten-Free Breakfast 2",
-          "healthy": "Italian Gluten-Free Breakfast 3",
-          "moreEnergy": "Italian Gluten-Free Breakfast 4",
-          "timeSaving": "Italian Gluten-Free Breakfast 5"
+          "loseWeight": "Italian Gluten-Free Lose-weight Breakfast",
+          "gainMuscle": "Italian Gluten-Free Gain-muscle Breakfast",
+          "healthy": "Italian Gluten-Free Healthy Breakfast",
+          "moreEnergy": "Italian Gluten-Free Breakfast for More-energy",
+          "timeSaving": "Italian Gluten-Free Time-saving Breakfast"
         },
         "lactoseFree": {
-          "loseWeight": "Italian Lactose-Free Breakfast 1",
-          "gainMuscle": "Italian Lactose-Free Breakfast 2",
-          "healthy": "Italian Lactose-Free Breakfast 3",
-          "moreEnergy": "Italian Lactose-Free Breakfast 4",
-          "timeSaving": "Italian Lactose-Free Breakfast 5"
+          "loseWeight": "Italian Lactose-Free Lose-weight Breakfast",
+          "gainMuscle": "Italian Lactose-Free Gain-muscle Breakfast",
+          "healthy": "Italian Lactose-Free Healthy Breakfast",
+          "moreEnergy": "Italian Lactose-Free Breakfast for More-energy",
+          "timeSaving": "Italian Lactose-Free Time-saving Breakfast"
         },
         "vegan": {
-          "loseWeight": "Italian Vegan Breakfast 1",
-          "gainMuscle": "Italian Vegan Breakfast 2",
-          "healthy": "Italian Vegan Breakfast 3",
-          "moreEnergy": "Italian Vegan Breakfast 4",
-          "timeSaving": "Italian Vegan Breakfast 5"
+          "loseWeight": "Italian Vegan Lose-weight Breakfast",
+          "gainMuscle": "Italian Vegan Gain-muscle Breakfast",
+          "healthy": "Italian Vegan Healthy Breakfast",
+          "moreEnergy": "Italian Vegan Breakfast for More-energy",
+          "timeSaving": "Italian Vegan Time-saving Breakfast"
         }
       },
       "asian": {
         "glutenFree": {
-          "loseWeight": "Asian Gluten-Free Breakfast 1",
-          "gainMuscle": "Asian Gluten-Free Breakfast 2",
-          "healthy": "Asian Gluten-Free Breakfast 3",
-          "moreEnergy": "Asian Gluten-Free Breakfast 4",
-          "timeSaving": "Asian Gluten-Free Breakfast 5"
+          "loseWeight": "Asian Gluten-Free Lose-weight Breakfast",
+          "gainMuscle": "Asian Gluten-Free Gain-muscle Breakfast",
+          "healthy": "Asian Gluten-Free Healthy Breakfast",
+          "moreEnergy": "Asian Gluten-Free Breakfast for More-energy",
+          "timeSaving": "Asian Gluten-Free Time-saving Breakfast"
         },
         "lactoseFree": {
-          "loseWeight": "Asian Lactose-Free Breakfast 1",
-          "gainMuscle": "Asian Lactose-Free Breakfast 2",
-          "healthy": "Asian Lactose-Free Breakfast 3",
-          "moreEnergy": "Asian Lactose-Free Breakfast 4",
-          "timeSaving": "Asian Lactose-Free Breakfast 5"
+          "loseWeight": "Asian Lactose-Free Lose-weight Breakfast",
+          "gainMuscle": "Asian Lactose-Free Gain-muscle Breakfast",
+          "healthy": "Asian Lactose-Free Healthy Breakfast",
+          "moreEnergy": "Asian Lactose-Free Breakfast for More-energy",
+          "timeSaving": "Asian Lactose-Free Time-saving Breakfast"
         },
         "vegan": {
-          "loseWeight": "Asian Vegan Breakfast 1",
-          "gainMuscle": "Asian Vegan Breakfast 2",
-          "healthy": "Asian Vegan Breakfast 3",
-          "moreEnergy": "Asian Vegan Breakfast 4",
-          "timeSaving": "Asian Vegan Breakfast 5"
+          "loseWeight": "Asian Vegan Lose-weight Breakfast",
+          "gainMuscle": "Asian Vegan Gain-muscle Breakfast",
+          "healthy": "Asian Vegan Healthy Breakfast",
+          "moreEnergy": "Asian Vegan Breakfast for More-energy",
+          "timeSaving": "Asian Vegan Time-saving Breakfast"
         }
       }
     },
     "lunch": {
       "mexican": {
         "glutenFree": {
-          "loseWeight": "Mexican Gluten-Free Lunch 1",
-          "gainMuscle": "Mexican Gluten-Free Lunch 2",
-          "healthy": "Mexican Gluten-Free Lunch 3",
-          "moreEnergy": "Mexican Gluten-Free Lunch 4",
-          "timeSaving": "Mexican Gluten-Free Lunch 5"
+          "loseWeight": "Mexican Gluten-Free Lunch to Lose-weight",
+          "gainMuscle": "Mexican Gluten-Free Lunch to Gain muscle",
+          "healthy": "Mexican Gluten-Free More Healthy Lunch",
+          "moreEnergy": "Mexican Gluten-Free More Energy Lunch",
+          "timeSaving": "Mexican Gluten-Free Time-saving Lunch"
         },
         "lactoseFree": {
-          "loseWeight": "Mexican Lactose-Free Lunch 1",
-          "gainMuscle": "Mexican Lactose-Free Lunch 2",
-          "healthy": "Mexican Lactose-Free Lunch 3",
-          "moreEnergy": "Mexican Lactose-Free Lunch 4",
-          "timeSaving": "Mexican Lactose-Free Lunch 5"
+          "loseWeight": "Mexican Lactose-Free Lunch to Lose-weight",
+          "gainMuscle": "Mexican Lactose-Free Lunch to Gain muscle",
+          "healthy": "Mexican Lactose-Free More Healthy Lunch",
+          "moreEnergy": "Mexican Lactose-Free More Energy Lunch",
+          "timeSaving": "Mexican Lactose-Free Time-saving Lunch"
         },
         "vegan": {
-          "loseWeight": "Mexican Vegan Lunch 1",
-          "gainMuscle": "Mexican Vegan Lunch 2",
-          "healthy": "Mexican Vegan Lunch 3",
-          "moreEnergy": "Mexican Vegan Lunch 4",
-          "timeSaving": "Mexican Vegan Lunch 5"
+          "loseWeight": "Mexican Vegan Lunch to Lose-weight",
+          "gainMuscle": "Mexican Vegan Lunch to Gain muscle",
+          "healthy": "Mexican Vegan More Healthy Lunch",
+          "moreEnergy": "Mexican Vegan More Energy Lunch",
+          "timeSaving": "Mexican Vegan Time-saving Lunch"
         }
       },
       "italian": {
         "glutenFree": {
-          "loseWeight": "Italian Gluten-Free Lunch 1",
-          "gainMuscle": "Italian Gluten-Free Lunch 2",
-          "healthy": "Italian Gluten-Free Lunch 3",
-          "moreEnergy": "Italian Gluten-Free Lunch 4",
-          "timeSaving": "Italian Gluten-Free Lunch 5"
+          "loseWeight": "Italian Gluten-Free Lunch to Lose-weight",
+          "gainMuscle": "Italian Gluten-Free Lunch to Gain muscle",
+          "healthy": "Italian Gluten-Free More Healthy Lunch",
+          "moreEnergy": "Italian Gluten-Free More Energy Lunch",
+          "timeSaving": "Italian Gluten-Free Time-saving Lunch"
         },
         "lactoseFree": {
-          "loseWeight": "Italian Lactose-Free Lunch 1",
-          "gainMuscle": "Italian Lactose-Free Lunch 2",
-          "healthy": "Italian Lactose-Free Lunch 3",
-          "moreEnergy": "Italian Lactose-Free Lunch 4",
-          "timeSaving": "Italian Lactose-Free Lunch 5"
+          "loseWeight": "Italian Lactose-Free Lunch to Lose-weight",
+          "gainMuscle": "Italian Lactose-Free Lunch to Gain muscle",
+          "healthy": "Italian Lactose-Free More Healthy Lunch",
+          "moreEnergy": "Italian Lactose-Free More Energy Lunch",
+          "timeSaving": "Italian Lactose-Free Time-saving Lunch"
         },
         "vegan": {
-          "loseWeight": "Italian Vegan Lunch 1",
-          "gainMuscle": "Italian Vegan Lunch 2",
-          "healthy": "Italian Vegan Lunch 3",
-          "moreEnergy": "Italian Vegan Lunch 4",
-          "timeSaving": "Italian Vegan Lunch 5"
+          "loseWeight": "Italian Vegan Lunch to Lose-weight",
+          "gainMuscle": "Italian Vegan Lunch to Gain muscle",
+          "healthy": "Italian Vegan More Healthy Lunch",
+          "moreEnergy": "Italian Vegan More Energy Lunch",
+          "timeSaving": "Italian Vegan Time-saving Lunch"
         }
       },
       "asian": {
         "glutenFree": {
-          "loseWeight": "Asian Gluten-Free Lunch 1",
-          "gainMuscle": "Asian Gluten-Free Lunch 2",
-          "healthy": "Asian Gluten-Free Lunch 3",
-          "moreEnergy": "Asian Gluten-Free Lunch 4",
-          "timeSaving": "Asian Gluten-Free Lunch 5"
+          "loseWeight": "Asian Gluten-Free Lunch to Lose-weight",
+          "gainMuscle": "Asian Gluten-Free Lunch to Gain muscle",
+          "healthy": "Asian Gluten-Free More Healthy Lunch",
+          "moreEnergy": "Asian Gluten-Free More Energy Lunch",
+          "timeSaving": "Asian Gluten-Free Time-saving Lunch"
         },
         "lactoseFree": {
-          "loseWeight": "Asian Lactose-Free Lunch 1",
-          "gainMuscle": "Asian Lactose-Free Lunch 2",
-          "healthy": "Asian Lactose-Free Lunch 3",
-          "moreEnergy": "Asian Lactose-Free Lunch 4",
-          "timeSaving": "Asian Lactose-Free Lunch 5"
+          "loseWeight": "Asian Lactose-Free Lunch to Lose-weight",
+          "gainMuscle": "Asian Lactose-Free Lunch to Gain muscle",
+          "healthy": "Asian Lactose-Free More Healthy Lunch",
+          "moreEnergy": "Asian Lactose-Free More Energy Lunch",
+          "timeSaving": "Asian Lactose-Free Time-saving Lunch"
         },
         "vegan": {
-          "loseWeight": "Asian Vegan Lunch 1",
-          "gainMuscle": "Asian Vegan Lunch 2",
-          "healthy": "Asian Vegan Lunch 3",
-          "moreEnergy": "Asian Vegan Lunch 4",
-          "timeSaving": "Asian Vegan Lunch 5"
+          "loseWeight": "Asian Vegan Lunch to Lose-weight",
+          "gainMuscle": "Asian Vegan Lunch to Gain muscle",
+          "healthy": "Asian Vegan More Healthy Lunch",
+          "moreEnergy": "Asian Vegan More Energy Lunch",
+          "timeSaving": "Asian Vegan Time-saving Lunch"
         }
       }
     },
     "dinner": {
       "mexican": {
         "glutenFree": {
-          "loseWeight": "Mexican Gluten-Free Dinner 1",
-          "gainMuscle": "Mexican Gluten-Free Dinner 2",
-          "healthy": "Mexican Gluten-Free Dinner 3",
-          "moreEnergy": "Mexican Gluten-Free Dinner 4",
-          "timeSaving": "Mexican Gluten-Free Dinner 5"
+          "loseWeight": "Mexican Gluten-Free Lose-weight Dinner",
+          "gainMuscle": "Mexican Gluten-Free Gain-muscle Dinner",
+          "healthy": "Mexican Gluten-Free Healthier Dinner",
+          "moreEnergy": "Mexican Gluten-Free More-energy Dinner",
+          "timeSaving": "Mexican Gluten-Free Time-saving Dinner"
         },
         "lactoseFree": {
-          "loseWeight": "Mexican Lactose-Free Dinner 1",
-          "gainMuscle": "Mexican Lactose-Free Dinner 2",
-          "healthy": "Mexican Lactose-Free Dinner 3",
-          "moreEnergy": "Mexican Lactose-Free Dinner 4",
-          "timeSaving": "Mexican Lactose-Free Dinner 5"
+          "loseWeight": "Mexican Lactose-Free Lose-weight Dinner",
+          "gainMuscle": "Mexican Lactose-Free Gain-muscle Dinner",
+          "healthy": "Mexican Lactose-Free Healthier Dinner",
+          "moreEnergy": "Mexican Lactose-Free More-energy Dinner",
+          "timeSaving": "Mexican Lactose-Free Time-saving Dinner"
         },
         "vegan": {
-          "loseWeight": "Mexican Vegan Dinner 1",
-          "gainMuscle": "Mexican Vegan Dinner 2",
-          "healthy": "Mexican Vegan Dinner 3",
-          "moreEnergy": "Mexican Vegan Dinner 4",
-          "timeSaving": "Mexican Vegan Dinner 5"
+          "loseWeight": "Mexican Vegan Lose-weight Dinner",
+          "gainMuscle": "Mexican Vegan Gain-muscle Dinner",
+          "healthy": "Mexican Vegan Healthier Dinner",
+          "moreEnergy": "Mexican Vegan More-energy Dinner",
+          "timeSaving": "Mexican Vegan Time-saving Dinner"
         }
       },
       "italian": {
         "glutenFree": {
-          "loseWeight": "Italian Gluten-Free Dinner 1",
-          "gainMuscle": "Italian Gluten-Free Dinner 2",
-          "healthy": "Italian Gluten-Free Dinner 3",
-          "moreEnergy": "Italian Gluten-Free Dinner 4",
-          "timeSaving": "Italian Gluten-Free Dinner 5"
+          "loseWeight": "Italian Gluten-Free Lose-weight Dinner",
+          "gainMuscle": "Italian Gluten-Free Gain-muscle Dinner",
+          "healthy": "Italian Gluten-Free Healthier Dinner",
+          "moreEnergy": "Italian Gluten-Free More-energy Dinner",
+          "timeSaving": "Italian Gluten-Free Time-saving Dinner"
         },
         "lactoseFree": {
-          "loseWeight": "Italian Lactose-Free Dinner 1",
-          "gainMuscle": "Italian Lactose-Free Dinner 2",
-          "healthy": "Italian Lactose-Free Dinner 3",
-          "moreEnergy": "Italian Lactose-Free Dinner 4",
-          "timeSaving": "Italian Lactose-Free Dinner 5"
+          "loseWeight": "Italian Lactose-Free Lose-weight Dinner",
+          "gainMuscle": "Italian Lactose-Free Gain-muscle Dinner",
+          "healthy": "Italian Lactose-Free Healthier Dinner",
+          "moreEnergy": "Italian Lactose-Free More-energy Dinner",
+          "timeSaving": "Italian Lactose-Free Time-saving Dinner"
         },
         "vegan": {
-          "loseWeight": "Italian Vegan Dinner 1",
-          "gainMuscle": "Italian Vegan Dinner 2",
-          "healthy": "Italian Vegan Dinner 3",
-          "moreEnergy": "Italian Vegan Dinner 4",
-          "timeSaving": "Italian Vegan Dinner 5"
+          "loseWeight": "Italian Vegan Lose-weight Dinner",
+          "gainMuscle": "Italian Vegan Gain-muscle Dinner",
+          "healthy": "Italian Vegan Healthier Dinner",
+          "moreEnergy": "Italian Vegan More-energy Dinner",
+          "timeSaving": "Italian Vegan Time-saving Dinner"
         }
       },
       "asian": {
         "glutenFree": {
-          "loseWeight": "Asian Gluten-Free Dinner 1",
-          "gainMuscle": "Asian Gluten-Free Dinner 2",
-          "healthy": "Asian Gluten-Free Dinner 3",
-          "moreEnergy": "Asian Gluten-Free Dinner 4",
-          "timeSaving": "Asian Gluten-Free Dinner 5"
+          "loseWeight": "Asian Gluten-Free Lose-weight Dinner",
+          "gainMuscle": "Asian Gluten-Free Gain-muscle Dinner",
+          "healthy": "Asian Gluten-Free Healthier Dinner",
+          "moreEnergy": "Asian Gluten-Free More-energy Dinner",
+          "timeSaving": "Asian Gluten-Free Time-saving Dinner"
         },
         "lactoseFree": {
-          "loseWeight": "Asian Lactose-Free Dinner 1",
-          "gainMuscle": "Asian Lactose-Free Dinner 2",
-          "healthy": "Asian Lactose-Free Dinner 3",
-          "moreEnergy": "Asian Lactose-Free Dinner 4",
-          "timeSaving": "Asian Lactose-Free Dinner 5"
+          "loseWeight": "Asian Lactose-Free Lose-weight Dinner",
+          "gainMuscle": "Asian Lactose-Free Gain-muscle Dinner",
+          "healthy": "Asian Lactose-Free Healthier Dinner",
+          "moreEnergy": "Asian Lactose-Free More-energy Dinner",
+          "timeSaving": "Asian Lactose-Free Time-saving Dinner"
         },
         "vegan": {
-          "loseWeight": "Asian Vegan Dinner 1",
-          "gainMuscle": "Asian Vegan Dinner 2",
-          "healthy": "Asian Vegan Dinner 3",
-          "moreEnergy": "Asian Vegan Dinner 4",
-          "timeSaving": "Asian Vegan Dinner 5"
+          "loseWeight": "Asian Vegan Lose-weight Dinner",
+          "gainMuscle": "Asian Vegan Gain-muscle Dinner",
+          "healthy": "Asian Vegan Healthier Dinner",
+          "moreEnergy": "Asian Vegan More-energy Dinner",
+          "timeSaving": "Asian Vegan Time-saving Dinner"
         }
       }
     }
